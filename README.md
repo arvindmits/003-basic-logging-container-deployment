@@ -4,7 +4,7 @@ In this episode we'll upgrade our NodeJS website to use the ExpressJS framework.
 ## Resource Links
 If you want to learn more about the resources in this episode, click below!
 
- - [Azure WebApp Logging](https://docs.microsoft.com/azure/app-service/troubleshoot-diagnostic-logs?WT.mc_id=docs-azurecasts-robcon)
- - [Continuous Container Deployment](https://docs.microsoft.com/azure/app-service/containers/app-service-linux-ci-cd?WT.mc_id=docs-azurecasts-robcon)
- - [Configuring Logging with the CLI](https://docs.microsoft.com/cli/azure/webapp/log?view=azure-cli-latest&WT.mc_id=docs-azurecasts-robcon)
+ - [Azure WebApp Logging](https://docs.microsoft.com/azure/app-service/troubleshoot-diagnostic-logs?WT.mc_id=azurecast_003-github-robconery)
+ - [Continuous Container Deployment](https://docs.microsoft.com/azure/app-service/containers/app-service-linux-ci-cd?WT.mc_id=azurecast_003-github-robconery)
+ - [Configuring Logging with the CLI](https://docs.microsoft.com/cli/azure/webapp/log?view=azure-cli-latest&WT.mc_id=azurecast_003-github-robconery)
  - [AZX.ms](https://azx.ms), a scripting warehouse
